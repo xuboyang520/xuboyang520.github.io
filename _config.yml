@@ -1,10 +1,10 @@
 # Site settings
-title: 童程童美周六上午编程班
-SEOTitle: 编程让技术更容易
-header-img: img/post-bg-desk.jpg
+title: 上巴小课堂
+SEOTitle: 震惊全世界的的新器官
+header-img:100.gif
 email: stoneleon@foxmail.com
-description: "中西融合, 即学即会, 从此不再辛苦学编程"
-keyword: "AI人工语言, Python, C++, 乐高, 玩具"
+description: "他一拳就..打到...我这个..emm..上巴"
+keyword: "上---巴"
 url: "https://xuboyang520.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
